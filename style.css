@@ -1,8 +1,10 @@
 body {
-    background-color: brown;
+    background-color: rgb(120, 139, 221);
 }
 
 h1{
-background-color: burlywood;
+background-color: rgb(30, 5, 77);
+
+color: white
 
 }
