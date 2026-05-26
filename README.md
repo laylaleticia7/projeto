@@ -3,10 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"
     <title>Astroloia</title>
 </head>
 <body>
+    <header>
     <h1>Oque é astrologia?:</h1>
+    <h2>Layla Leticia Herculano Passos</h2>
+    </header>
 <br>
 A astrologia é um estudo antigo que observa os astros, como os planetas, o Sol e a Lua, buscando entender suas influências simbólicas sobre a personalidade, emoções e acontecimentos da vida. Muitas pessoas utilizam a astrologia como forma de autoconhecimento e reflexão.
 <br>
