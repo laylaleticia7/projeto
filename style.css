@@ -1,10 +1,24 @@
 body {
-    background-color: rgb(120, 139, 221);
+    background-color: rgb(156, 172, 241);
 }
 
 h1{
-background-color: rgb(30, 5, 77);
-
+background-color: rgb(16, 47, 104);
+padding: 15px;
+border-radius: 10px;
+text-align: center;
 color: white
+}
 
+h2{
+    font-family: 'Bebas nave', sans-serif; 
+    font-weight: 880;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgb(19, 54, 94);
+    color: aliceblue;
+}
+h3{
+    font-family:'Bebas nave', sans-serif
+    
 }
